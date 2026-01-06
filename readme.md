@@ -109,7 +109,7 @@ This week, we shift our focus to the concept of Participatory GIS, a pivotal are
 -   **Think Piece 5:** [Think Piece Canvas Link](https://canvas.uw.edu/courses/1862477/discussion_topics/10211931) `Due: Feb 9th, by 11:59pm`
 -   **Lab 5:** [Participatory Online Map Application](labs/lab05) `Due: Feb 19th, by 11:59pm`
 
--   **[Final Project Checkpoint](project/readme.md):** [Draft project proposal, data sources, and other multimedia](https://canvas.uw.edu/courses/1696704/discussion_topics/8613882) `Due: Feb. 5th 11:59pm`
+-   **[Final Project Checkpoint](project/readme.md):** [Draft project proposal, data sources, and other multimedia](https://canvas.uw.edu/courses/1862477/discussion_topics/10211938) `Due: Feb. 6th 11:59pm`
 
 ### Week 6: Smart dashboards
 
@@ -123,7 +123,7 @@ Smart dashboards are an incredibly powerful tool for visualizing and presenting 
 -   **Think Piece 6:** [Think Piece Canvas Link](https://canvas.uw.edu/courses/1862477/discussion_topics/10211932) `Due: Feb 16th by 11:59pm`
 -  **Lab 6:** [Smart Dashboard Application](labs/lab06) `Due: Feb 19th, by 11:59pm`
 
--   **[Final Project Checkpoint](project/readme.md):** [Design project prototype & data preparation](https://canvas.uw.edu/courses/1696704/discussion_topics/8613881) `Due: Feb. 12th, by 11:59pm`
+-   **[Final Project Checkpoint](project/readme.md):** [Design project prototype & data preparation](https://canvas.uw.edu/courses/1862477/discussion_topics/10211937) `Due: Feb. 13th, by 11:59pm`
 
 ### Week 7: Geo-Narratives
 
@@ -136,9 +136,9 @@ This week, we're diving into geo-narrative – the use of storytelling in mappin
 -   **Lectures:** a) [A Geo-Narrative Template](weeks/week07/). Examples: a) [Oregon Atlas](http://oregonwater.info/atlas.html), b) [Stand with #Standing Rock](https://jakobzhao.github.io/standwithstandingrock/)
 -   **Readings:** a) [Planning and outlining your story map](https://www.esri.com/arcgis-blog/products/arcgis-storymaps/sharing-collaboration/planning-and-outlining-your-story-map-how-to-set-yourself-up-for-success/) , b) [Cartographic Design as Visual Storytelling: Synthesis and Review of Map-Based Narratives, Genres, and Tropes](https://drive.google.com/drive/folders/1JoXMil3jC6jAS9gE3K8zeP0NSHyHJkE7), c)[extended readings](weeks/week07/readings.md).
 -   **Think Piece 7:** [Think Piece Canvas Link](https://canvas.uw.edu/courses/1862477/discussion_topics/10211933) `Due: Feb 23, by 11:59pm`
--  **Lab 7:** [Making a Map-based Storytelling Application](labs/lab07) `Due: Feb 19th, by 11:59pm`
+-  **Lab 7:** [Making a Map-based Storytelling Application](labs/lab07) `Due: Feb 20th, by 11:59pm`
 
--   **[Final Project Checkpoint](project/readme.md):** [Proposal revision and pilot study](https://canvas.uw.edu/courses/1696704/discussion_topics/8613880) `Due: Feb. 19th, by 11:59pm`
+-   **[Final Project Checkpoint](project/readme.md):** [Proposal revision and pilot study](https://canvas.uw.edu/courses/1862477/discussion_topics/10211936) `Due: Feb. 19th, by 11:59pm`
 
 
 ### Week 8: Emerging topics
@@ -150,7 +150,7 @@ This week, we're exploring emerging topics in digital geographies! We'll be focu
 -   **Lectures:** The lecture focuses on the following papers.
 -   **Readings:** a) [Deepfake Geography](https://www.researchgate.net/profile/Chunxue-Xu/publication/351131604_Deep_fake_geography_When_geospatial_data_encounter_Artificial_Intelligence/links/608a48f5a6fdccaebdf4f065/Deep-fake-geography-When-geospatial-data-encounter-Artificial-Intelligence.pdf), and b) [Blockchain and crypto place](https://www.sciencedirect.com/science/article/pii/S0016718520302219/pdfft?isDTMRedir=true&download=true), c) [extended readings](weeks/week08/readings.md).
 -   **Think Piece 8:** [Think Piece Canvas Link](https://canvas.uw.edu/courses/1862477/discussion_topics/10211934) `Due: Mar 2nd, by 11:59pm`
--   **[Final Project Checkpoint](project/readme.md):** [Project development and identified issues](https://canvas.uw.edu/courses/1696704/discussion_topics/8613879) `Due: Feb 26th, by 11:59pm`
+-   **[Final Project Checkpoint](project/readme.md):** [Project development and identified issues](https://canvas.uw.edu/courses/1862477/discussion_topics/10211935) `Due: Feb 26th, by 11:59pm`
 
 ### Week 9-10: Project preparation and presentation
 
@@ -158,7 +158,7 @@ This week, we're exploring emerging topics in digital geographies! We'll be focu
 
 **It is important that each group meets with their TA at least once during the lab session in Week 9. Therefore, it is crucial that all students participate in the lab sessions during this week.** Additionally, the instructor will be available for virtual meetings during normal lecture and office hours in Weeks 9 for troubleshooting and to offer assistance with the final projects. These meetings can be  scheduled through the designated office hours. If neither of these time slots is convenient, please contact the instructor to arrange a meeting at a mutually available time.
 
-During this week, each group will focus on their final projects, with the instructor and TAs available to provide support during normal lecture periods, lab sessions, and office hours. Don't hesitate to reach out if you need any help along the way. The final project presentation will be held on **Mar 11th** during the lab session.
+During this week, each group will focus on their final projects, with the instructor and TAs available to provide support during normal lecture periods, lab sessions, and office hours. Don't hesitate to reach out if you need any help along the way. The final project presentation will be held on **Mar 11th** during the lab sessions.
 
 
 ## :bell: Course Requirement
@@ -177,7 +177,7 @@ During this week, each group will focus on their final projects, with the instru
 
 **Labs:** Over this quarter, we offer 7 lab assignments. But you do not need to finish them all. You need to finish Lab 1, 2, 3, and 4. And then finish either one of Lab 5, 6, and 7. So, you will finish 5 labs in total. **Remember, your final project will be built upon either Lab 5, 6, 7, or a project idea that has been approved by the instructor. So, a group can strategically choose which lab to finish.**
 
-**Think Pieces:** for week 1 to 8, there will be weekly reading assignments. To evaluate your reflection upon each week's reading material, we set up a discussion board for each week. You need to submit at least think pieces to **4** out of the 8 weeks' discussion topics. We will review them all, but only the four with hightest scores will be counted towards your final grade. Your think pieces should be completed by Thursday @ 11:59 pm for the weeks you are submitting a piece. **All the 4 think pieces must be submitted by the end of Week 8**. Your think pieces should be at least 350 words and engage substantially with the reading materials, and connections to the lab assignments and lectures. **The focus of your discussion should be the main readings**, as the extended readings are for your further interests. Guiding questions or prompts will be included in each week's discussion section on canvas to help frame your thinking. Submit your think pieces on Canvas in the applicable week's discussion section.
+**Think Pieces:** for week 1 to 8, there will be weekly reading assignments. To evaluate your reflection upon each week's reading material, we set up a discussion board for each week. You need to submit at least think pieces to **4** out of the 8 weeks' discussion topics. We will review them all, but only the four with hightest scores will be counted towards your final grade. Your think pieces should be at least 800 words and engage substantially with the reading materials, and connections to the lab assignments and lectures. **The focus of your discussion should be the main readings**, as the extended readings are for your further interests. Guiding questions or prompts will be included in each week's discussion section on canvas to help frame your thinking. Submit your think pieces on Canvas in the applicable week's discussion section.
 
 **Participation:** Complete all assigned readings and get familiar with the lab instructions before class meetings, and actively participate in critical discussions of those readings. You should have completed all of the weekly readings before the Thursday lectures as we will discuss and engage with the required readings. What's more, **Through out the quarter, each group is expected to ask at least 3 questions in total during the Q&A sessions after your classmates presentation. This will count toward your class participation grade.**
 
