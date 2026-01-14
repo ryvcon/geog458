@@ -179,9 +179,9 @@ During this week, each group will focus on their final projects, with the instru
 
 **Think Pieces:** for week 1 to 8, there will be weekly reading assignments. To evaluate your reflection upon each week's reading material, we set up a discussion board for each week. You need to submit at least think pieces to **4** out of the 8 weeks' discussion topics. We will review them all, but only the four with hightest scores will be counted towards your final grade. Your think pieces should be at least 800 words and engage substantially with the reading materials, and connections to the lab assignments and lectures. **The focus of your discussion should be the main readings**, as the extended readings are for your further interests. Guiding questions or prompts will be included in each week's discussion section on canvas to help frame your thinking. Submit your think pieces on Canvas in the applicable week's discussion section.
 
-**Participation:** Complete all assigned readings and get familiar with the lab instructions before class meetings, and actively participate in critical discussions of those readings. You should have completed all of the weekly readings before the Thursday lectures as we will discuss and engage with the required readings. What's more, **Through out the quarter, each group is expected to ask at least 3 questions in total during the Q&A sessions after your classmates presentation. This will count toward your class participation grade.**
+**Participation:** Complete all assigned readings and get familiar with the lab instructions before class meetings, and actively participate in critical discussions of those readings. You should have completed all of the weekly readings before the Tuesday lectures as we will discuss and engage with the required readings. What's more, **Through out the quarter, each group is expected to ask at least 3 questions in total during the Q&A sessions after your classmates presentation. This will count toward your class participation grade.**
 
-**In-class presentation:** **Also, each group will lead the presentation about an assigned topic at least once throughout this quarter. We will start the group presentation in Week 3.** Each group will present an previously assign paper or a digital geography related project in no more than 15 minutes. If you prepare slides for the presentation, please send it to the instructor before class via email to the instructor. 
+**In-class presentation:** **Also, each group will lead the presentation about an assigned topic at least once throughout this quarter. We will start the group presentation in Week 3.** Each group will present an previously assign paper or a digital geography related project in no more than 20 minutes. If you prepare slides for the presentation, please send it to the instructor before class via email to the instructor. 
 
 - When preparing an in-class presentation for a digital project, like an interactive map, make sure to cover the main topic and key functions of the project. Also, connect the reading material and your think-piece with the project, for example providing a critical assessment of the use of geospatial data. Additionally, make sure to go into depth about the technical aspects of the project, such as the system architecture and the code. Check out [the detailed requirement for in-class presentation](presentation/readme.md).
 
@@ -189,14 +189,14 @@ During this week, each group will focus on their final projects, with the instru
 
 ## :heavy_check_mark: Grading
 
-| Grading items          | %   |
-| ---------------------- | --- |
-| Participation          | 5%  |
-| In-class Presentation  | 10% |
-| Think Pieces           | 20% |
-| Lab Assignments        | 30% |
-| Final Project Progress | 15% |
-| Final project          | 20% |
+| Grading items          | %   | %                                                                                                                                            |
+| ---------------------- | --- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Participation          | 5%  | actively engage in class activities, each group is expected to ask >= 3 questions during the Q&A sessions after your classmates presentation |
+| In-class Presentation  | 10% | each group presents once throughout the quarter                                                                                              |
+| Think Pieces           | 20% | complete 4 of the 8 think piece assignments                                                                                                  |
+| Lab Assignments        | 30% | complete teh first 4 labs and pick either one of the last 3 lab assignments                                                                  |
+| Final Project Progress | 15% | submit progress assignments                                                                                                                  |
+| Final project          | 20% | complete final project                                                                                                                       |
 
 
 ## :notebook_with_decorative_cover: Equity & Inclusivity
